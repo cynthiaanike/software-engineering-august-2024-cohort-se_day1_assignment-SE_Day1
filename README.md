@@ -12,7 +12,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Identify and describe at least three key milestones in the evolution of software engineering.
 Three key milestones in the evolution of software engineering include:
   -early programming: this era fetaures the development of early programming langauges like COBOL and FROTRAN.
-   -emergence of software methodologies: this era introduced a sequential approach to software development(waterfall model) and the promotion of reusable and modular code through object-  oriented programming languages such as C++
+  -emergence of software methodologies: this era introduced a sequential approach to software development(waterfall model) and the promotion of reusable and modular code through object-  oriented programming languages such as C++
    -modern sofware engineering: this era came with the rise of AI and machine learning in software dvelopment. starting from 2020, AI tools are increasingly being used for code       generation, testing, and even decision-making within the software development process. we are also experiencing a shift to cloud-based arechitectures and micro-services allowing for   greater scalability and flexibility in software design and deployment. also, with the increasing importance of cybersecurity, practices like DevSecOps have emerged to inegrate security   into every phase of software development. 
   
 
@@ -67,8 +67,8 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-  vague prompt: 
+  vague prompt: tell me about technology
 
-  improved prompt:
+  improved prompt: provide a brief overview of the key advancements in smartphone technology over the past decade.
 
-  the improved prompt is more effective becuase it has given a more accurate information relevant to the query
+  the improved prompt is more effective becuase it has given a more accurate query for the information needed
